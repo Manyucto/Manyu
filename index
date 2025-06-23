@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Manyu - Crypto Project</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <img src="assets/logo.png" alt="Manyu Logo" class="logo">
+        <nav>
+            <a href="#about">About</a>
+            <a href="#features">Features</a>
+            <a href="#tokenomics">Tokenomics</a>
+            <a href="#roadmap">Roadmap</a>
+            <a href="#team">Team</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <img src="assets/banner.png" alt="Manyu Banner" class="banner">
+    </section>
+
+    <section id="about">
+        <h2>About Manyu</h2>
+        <p>Meet $MANYU, the adorable Shiba Inu taking over TikTok and now storming the blockchain! Inspired by one of the internet’s most lovable pups, $MANYU is here to bring joy, memes, and innovation to the crypto world.</p>
+    </section>
+
+    <section id="features">
+        <h2>Features</h2>
+        <ul>
+            <li>Viral social media presence</li>
+            <li>Meme-powered community</li>
+            <li>Blockchain integration</li>
+            <li>NFT potential</li>
+        </ul>
+    </section>
+
+    <section id="tokenomics">
+        <h2>Tokenomics</h2>
+        <p>Details coming soon...</p>
+    </section>
+
+    <section id="roadmap">
+        <h2>Roadmap</h2>
+        <p>Milestones and plans coming soon...</p>
+    </section>
+
+    <section id="team">
+        <h2>Team</h2>
+        <ul>
+            <li>Manyu – Chief Bark Officer 🐶</li>
+            <li>You – CTO</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contact & Socials</h2>
+        <ul>
+            <li><a href="https://www.instagram.com/littlemanyu_/" target="_blank">Instagram (3M followers)</a></li>
+            <li><a href="https://www.tiktok.com/@littlemanyu" target="_blank">TikTok (6.9M followers)</a></li>
+            <li><a href="https://www.youtube.com/@littlemanyu_" target="_blank">YouTube (11.8M followers)</a></li>
+        </ul>
+    </section>
+</body>
+</html>
